@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Saikrishna99-sky
-- 👀 I’m interested in  embedded systems 
-- 🌱 I’m currently learning c and embedded c
-- 💞️ I’m looking to collaborate on  semiconductor field 
-- 📫 How to reach me vsaikrishna05@gmail.com
-- 😄 Pronouns:
-- ⚡ Fun fact: ...
+# Hi, I'm Sai Krishna 👋
 
-<!---
-Saikrishna99-sky/Saikrishna99-sky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Embedded Systems & IoT Engineer passionate about:
+
+- ESP32 Development
+- Industrial IoT
+- MQTT Communication
+- Modbus RTU
+- Embedded Linux
+- RTOS
+- Hardware Debugging
+
+## Tech Stack
+C | Embedded C | C++ | ESP32 | MQTT | Modbus | UART | SPI | I2C | Linux
+
+## Featured Projects
+- Industrial IoT Water Tank Automation
+- ESP32 MQTT Monitoring System
+- LPC2148 ATM System
+- IoT Fault Detection System
